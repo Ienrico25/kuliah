@@ -9,4 +9,4 @@ elif(g[0]=="H"):
 else:
     m=100
 
-print("You must pay:$" + str(m) + "to customer")
+print("You must pay $" + str(m) + " to customer")
